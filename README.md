@@ -1,21 +1,28 @@
-# Green_Cycle
+# ♻️ Green_Cycle - Plateforme de gestion de déchets
 
-Green_Cycle est une plateforme web en cours de développement dédiée à la gestion et au suivi des déchets. Elle vise à simplifier la collecte, le tri et le recyclage afin de promouvoir des pratiques durables et la protection de l’environnement.
+Bienvenue sur le dépôt de Green_Cycle, une plateforme web dédiée à la gestion et au suivi des déchets pour promouvoir un environnement plus propre et durable.
 
-## Technologies utilisées
+[![Voir en ligne](https://img.shields.io/badge/🔗_Demo-non_disponible-grey?style=for-the-badge)](https://github.com/OnelKND/Green_Cycle)
 
-- PHP pour la logique serveur  
-- HTML, CSS et JavaScript pour le front-end  
-- MySQL pour la gestion de la base de données  
+---
 
-## Fonctionnalités (en cours)
+## 🚀 Technologies utilisées
 
-- Tableau de bord utilisateur  
-- Suivi des déchets collectés  
-- Reporting et statistiques  
+- PHP  
+- HTML / CSS / JavaScript  
+- MySQL  
 
-## Installation
+---
 
-1. Clone ce dépôt :
-   ```bash
-   git clone https://github.com/OnelKND/Green_Cycle.git
+## 📁 Structure du projet
+
+```bash
+.
+├── assets/
+│   ├── css/
+│   ├── js/
+├── includes/
+├── pages/
+├── config.php
+├── index.php
+└── README.md
